@@ -1,0 +1,7 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+first:
+  first_name: "Sample"
+  last_name: "Test"
+  email: "sample_test@gbox.adnu.edu.ph"
+  officer: true
